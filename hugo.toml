@@ -1,0 +1,53 @@
+baseURL = "https://troypeiler.com/"
+languageCode = "en-us"
+title = "Troy Peiler"
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  disableSpecial1stPost = true
+
+[params.profileMode]
+  enabled = true
+  title = "Troy Peiler"
+  subtitle = "Compliance Analyst → Aspiring Cloud Security Engineer. Building AWS security projects and documenting the journey."
+  imageUrl = ""
+  imageTitle = ""
+  imageWidth = 120
+  imageHeight = 120
+
+[[params.profileMode.buttons]]
+  name = "Projects"
+  url = "/projects/"
+
+[[params.profileMode.buttons]]
+  name = "Resume"
+  url = "/resume/"
+
+[[params.profileMode.buttons]]
+  name = "Contact"
+  url = "/contact/"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 40
