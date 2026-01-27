@@ -1,9 +1,11 @@
 ﻿# Hugo build output
-public/
-resources/
+/public/
+/resources/
+
+# Hugo build lock
 .hugo_build.lock
 
-# OS / editor
+# OS / editor files
 .DS_Store
 Thumbs.db
 .vscode/
