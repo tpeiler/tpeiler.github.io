@@ -9,3 +9,10 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# GitHub Pages generated output (root)
+index.html
+index.xml
+sitemap.xml
+404.html
+CNAME
