@@ -14,7 +14,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Troy Peiler"
-  subtitle = "Compliance Analyst pivoting to Cloud Security Engineering. Building and documenting real-world AWS security projects."
+  subtitle = "Moving from compliance into cloud security to help design secure systems for where infrastructure is headed."
   imageUrl = "/img/profile.jpg"
   imageTitle = "Troy Peiler"
   imageWidth = 160
