@@ -9,16 +9,17 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowShareButtons = false
   disableSpecial1stPost = true
+  profileModeAvatar = "circle"
 
 [params.profileMode]
   enabled = true
   title = "Troy Peiler"
-  subtitle = "Compliance Analyst → Aspiring Cloud Security Engineer. Building AWS security projects and documenting the journey."
-  imageUrl = ""
-  imageTitle = ""
-  imageWidth = 120
-  imageHeight = 120
-
+  subtitle = "Compliance Analyst pivoting to Cloud Security Engineering. Building and documenting real-world AWS security projects."
+  imageUrl = "/img/profile.jpg"
+  imageTitle = "Troy Peiler"
+  imageWidth = 160
+  imageHeight = 160
+  
 [[params.profileMode.buttons]]
   name = "Projects"
   url = "/projects/"
