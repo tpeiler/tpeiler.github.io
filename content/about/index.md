@@ -1,20 +1,22 @@
 +++
 date = '2026-01-27T01:48:14-08:00'
-draft = true
-title = 'About'
+draft = false
+title = 'About me'
 +++
 
 
 
 ---
 
-title: "About"
+title: "Get to know about me"
 
 ---
 
 
 
-Hi, I’m \*\*Troy Peiler\*\* — a Compliance Analyst with a Master’s in Management Information Systems who is intentionally pivoting into \*\*Cloud Security Engineering\*\*.
+Hi, My name is \*\*Troy Peiler\*\* — I was born and raised in Hawaii, Oahu eventually earning my BoA at University of Hawaii at Manoa. Eventually I moved to Las Vegas and seeing the way that technology exploded around me I decided to get my MIS at UNLV. which led me to being here today. Will learneing at Uniersity I worked as a intern at MGM resorts national which led to me working as a desktop support analyst at their MAndalay BAy property now I am Compiance Analyst which has a large interest at . 
+
+a Compliance Analyst with a Master’s in Management Information Systems who is intentionally pivoting into \*\*Cloud Security Engineering\*\*.
 
 
 
@@ -45,6 +47,14 @@ This site serves as a living portfolio of that journey — including projects, n
 
 
 If you’re interested in cloud security, AWS, or building secure systems thoughtfully and intentionally, you’re in the right place.
+
+
+
+
+### What I’m working on now
+
+- Currently working on this website!!! 
+- If you want tp keep up to date on my posts go here
 
 
 
