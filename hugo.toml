@@ -14,7 +14,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Troy Peiler"
-  subtitle = "Moving from compliance into cloud security to help design secure systems for where infrastructure is headed."
+  subtitle = "See what I’m building. Let’s learn and collaborate."
   imageUrl = "/img/profile.jpg"
   imageTitle = "Troy Peiler"
   imageWidth = 160
@@ -31,6 +31,11 @@ theme = "PaperMod"
 [[params.profileMode.buttons]]
   name = "Contact"
   url = "/contact/"
+
+[params.label]
+  icon = "🏠"
+  iconHeight = 22
+
 
 [menu]
   [[menu.main]]
