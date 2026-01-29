@@ -50,8 +50,8 @@ theme = "PaperMod"
 
   [[menu.main]]
     name = "Resume"
-    url = "/resume/"
-    weight = 30
+    url = "/resume/resume.pdf"
+    weight = 3
 
   [[menu.main]]
     name = "Posts"
