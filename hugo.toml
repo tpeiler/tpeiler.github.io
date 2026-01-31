@@ -13,8 +13,8 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = "Troy Peiler"
-  subtitle = "See what I’m building. Let’s learn and collaborate."
+  title = "Nice to meet you! I’m Troy Peiler, a compliance analyst building toward cloud security engineering."
+  subtitle = "My goal is to build secure, scalable cloud systems by applying security controls thoughtfully and intentionally, not just checking boxes."
   imageUrl = "/img/profile.jpg"
   imageTitle = "Troy Peiler"
   imageWidth = 160
