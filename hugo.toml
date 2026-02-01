@@ -21,8 +21,8 @@ theme = "PaperMod"
   imageHeight = 160
   
 [[params.profileMode.buttons]]
-  name = "Projects"
-  url = "/projects/"
+  name = "Resume"
+  url = "/resume/resume.pdf"
 
 [[params.profileMode.buttons]]
   name = "Resume"
@@ -38,7 +38,7 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/YOUR-LINK/"
+  url = "https://www.linkedin.com/in/troy-peiler-a23139189/"
 
 [[params.socialIcons]]
   name = "github"
