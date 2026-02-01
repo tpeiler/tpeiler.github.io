@@ -20,17 +20,6 @@ theme = "PaperMod"
   imageWidth = 160
   imageHeight = 160
   
-[[params.profileMode.buttons]]
-  name = "Resume"
-  url = "/resume/resume.pdf"
-
-[[params.profileMode.buttons]]
-  name = "Resume"
-  url = "/resume/"
-
-[[params.profileMode.buttons]]
-  name = "Contact"
-  url = "/contact/"
 
 [params.label]
   icon = "🏠"
