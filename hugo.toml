@@ -36,6 +36,20 @@ theme = "PaperMod"
   icon = "🏠"
   iconHeight = 22
 
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/YOUR-LINK/"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/tpeiler"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:troy.m.peiler@gmail.com"
+
+
+
 
 [menu]
   [[menu.main]]
