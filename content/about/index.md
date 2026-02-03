@@ -1,16 +1,10 @@
 +++
 date = '2026-01-27T01:48:14-08:00'
 draft = false
-title = 'About me'
+title = 'Get to know me!'
 +++
 
 
-
----
-
-title: "Get to know about me"
-
----
 
 
 
