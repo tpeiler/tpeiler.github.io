@@ -14,47 +14,16 @@ title: "Get to know about me"
 
 
 
-Hi, My name is \*\*Troy Peiler\*\* — I was born and raised in Hawaii, Oahu eventually earning my BoA at University of Hawaii at Manoa. Eventually I moved to Las Vegas and seeing the way that technology exploded around me I decided to get my MIS at UNLV. which led me to being here today. Will learneing at Uniersity I worked as a intern at MGM resorts national which led to me working as a desktop support analyst at their MAndalay BAy property now I am Compiance Analyst which has a large interest at . 
+Hi, I’m Troy Peiler — a GRC professional turned cloud security builder.
 
-a Compliance Analyst with a Master’s in Management Information Systems who is intentionally pivoting into \*\*Cloud Security Engineering\*\*.
+I grew up on Oʻahu, Hawaiʻi, earned my degree from UH Mānoa, and later moved to Las Vegas, where I pivoted into tech and completed my M.S. in MIS at UNLV.
 
+I’ve worked in governance, risk, and compliance, partnering with technical teams on security controls, audits, and evidence-driven validation. That gave me a clear view of how security is assessed — and pushed me to focus on how it’s engineered.
 
+Now I’m building and documenting hands-on AWS security projects around IAM, logging/monitoring, detection, and secure architecture. My goal is to bridge the gap between compliance and engineering — designing controls that are practical, defensible, and actually reduce risk.
 
-My background is in governance, risk, and compliance, where I’ve worked closely with security controls, audits, evidence collection, and cross-functional technical teams. That experience gave me a strong foundation in \*\*how security is measured, enforced, and validated\*\* — but I wanted to go deeper into \*\*how security is actually built\*\*.
+Outside of work, I’m all about family, travel, the outdoors, and music
 
-
-
-That’s what I’m doing now.
-
-
-
-I’m actively building \*\*hands-on AWS security projects\*\* focused on real-world scenarios: identity and access management, logging and monitoring, detection, and secure cloud architecture. Rather than just studying concepts, I document what I build, what works, and what doesn’t — treating each project as both a learning exercise and a practical artifact.
-
-
-
-My goal is to bridge the gap between \*\*compliance and engineering\*\*:
-
-\- understanding \*why\* controls exist  
-
-\- knowing \*how\* to implement them in cloud environments  
-
-\- and being able to explain and defend those decisions clearly
-
-
-
-This site serves as a living portfolio of that journey — including projects, notes, and experiments as I continue developing toward a Cloud Security Engineering role.
-
-
-
-If you’re interested in cloud security, AWS, or building secure systems thoughtfully and intentionally, you’re in the right place.
-
-
-
-
-### What I’m working on now
-
-- Currently working on this website!!! 
-- If you want tp keep up to date on my posts go here
-
-
+What I’m working on now: building this site and shipping new cloud security projects.
+Follow along here: [posts](/posts/)
 
