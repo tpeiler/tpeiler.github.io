@@ -10,9 +10,12 @@ theme = "PaperMod"
   ShowShareButtons = false
   disableSpecial1stPost = true
   profileModeAvatar = "circle"
+  mainSections = ["portfolio", "posts"]
+  
+
 
 [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Nice to meet you! I’m Troy Peiler, a compliance analyst building toward cloud security engineering."
   subtitle = "My goal is to build secure, scalable cloud systems by applying security controls thoughtfully and intentionally, not just checking boxes."
   imageUrl = "/img/profile.jpg"
@@ -20,6 +23,8 @@ theme = "PaperMod"
   imageWidth = 160
   imageHeight = 160
   
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params.label]
   icon = "🏠"
@@ -47,8 +52,8 @@ theme = "PaperMod"
     weight = 10
 
   [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Portfolio"
+    url = "/portfolio/"
     weight = 20
 
   [[menu.main]]

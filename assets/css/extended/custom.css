@@ -1,0 +1,17 @@
+/* Center home intro block to match card width */
+.home-intro {
+  max-width: var(--main-width);
+  margin: 40px auto 0 auto;
+  padding: 0 var(--gap);
+  text-align: center;
+}
+
+/* Force-center the avatar even inside .post-content */
+.post-content .home-avatar {
+  display: block;
+  margin: 0 auto 16px auto !important;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
